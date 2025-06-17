@@ -1,11 +1,19 @@
-# 👋 Hi, I'm Jack Westbrook
+# 👋 Hi, I’m Jack Westbrook
 
-I'm a math-turned-crypto learner focused on post-quantum cryptography, Rust systems programming, and applied algebra.  
-Currently working on a structured plan toward a Spring 2026 PQC engineering role.
+🎓 I'm a math undergraduate passionate about post-quantum cryptography, lattice-based crypto, and secure systems.  
+🔬 I’ve worked on commutative algebra, algebraic number theory, and Macaulay2 tooling.  
+🦀 Currently learning Rust and modern C++ to build secure and efficient crypto libraries.  
 
-- 🔐 Building toy cryptographic tools in Rust and C++
-- 📘 Learning from NIST PQC standards and foundational math (lattices, error-correcting codes)
-- 🛠️ Projects: [`pqc-journey`](https://github.com/westbrookjack/pqc-journey), [`caesar_cipher`](https://github.com/westbrookjack/pqc-journey/tree/main/caesar_cipher)
-- 📫 Email: jackswestbrook@gmail.com
+## 🔧 Current Projects
+- 🔐 `pqc-journey`: My ongoing cryptography engineering roadmap
+- 🔢 `segrePresentation`: A Macaulay2 package for working with Segre products
+- 📗 `vakil-solutions`: My detailed writeups for *The Rising Sea* by Ravi Vakil
+
+## 📫 Reach Me
+
+- 📧 Email: [jackswestbrook@gmail.com](mailto:jackswestbrook@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/jack-westbrook](https://www.linkedin.com/in/jack-westbrook/)
+- 🌐 Personal site: _Coming soon_
+
 
 > “Q:What's round, purple, and doesn't drive to work? A: A non-abelian grape (it doesn't commute)”
