@@ -5,8 +5,9 @@
 🦀 Currently learning Rust and modern C++ to build secure and efficient crypto libraries.  
 
 ## 🔧 Current Projects
-- 🔐 `pqc-journey`: My ongoing cryptography engineering roadmap
-- 🔢 `segrePresentation`: A Macaulay2 package for working with Segre products
+
+- 🔐 `pqc-journey`: My cryptography engineering roadmap (Rust, C++, PQC standards)
+- 🧮 `segrePresentation`: A Macaulay2 package for computing Segre products and presentations of weighted Veronese subrings of graded algebras
 - 📗 `vakil-solutions`: My detailed writeups for *The Rising Sea* by Ravi Vakil
 
 ## 📫 Reach Me
@@ -15,5 +16,7 @@
 - 💼 LinkedIn: [linkedin.com/in/jack-westbrook](https://www.linkedin.com/in/jack-westbrook/)
 - 🌐 Personal site: _Coming soon_
 
+---
 
-> “Q:What's round, purple, and doesn't drive to work? A: A non-abelian grape (it doesn't commute)”
+> “What's round, purple, and doesn't drive to work?  
+> A: A non-abelian grape. _(It doesn’t commute.)_”
