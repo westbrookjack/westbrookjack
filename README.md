@@ -7,7 +7,7 @@
 ## 🔧 Current Projects
 
 - 🔐 `pqc-journey`: My cryptography engineering roadmap (Rust, C++, PQC standards)
-- 🧮 `segrePresentation`: A Macaulay2 package for computing Segre products and presentations of weighted Veronese subrings of graded algebras
+- 🧮 `graded-algebra-operations`: A Macaulay2 package for computing Segre products and presentations of weighted Veronese subrings of graded algebras
 - 📗 `vakil-solutions`: My detailed writeups for *The Rising Sea* by Ravi Vakil
 
 ## 📫 Reach Me
