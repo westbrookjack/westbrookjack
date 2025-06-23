@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Jack Westbrook
 
-🎓 I'm a math undergraduate passionate about post-quantum cryptography, lattice-based crypto, and secure systems.  
-🔬 I’ve worked on commutative algebra, algebraic number theory, and Macaulay2 tooling.  
-🦀 Currently learning Rust and modern C++ to build secure and efficient crypto libraries.  
+🎓 I'm a mathematics graduate passionate about post-quantum cryptography, lattice-based crypto, and secure systems.  
+🔬 I've worked on commutative algebra, algebraic number theory, and Macaulay2 tooling.  
+🦀 Currently learning Rust and modern C++ to build secure and efficient cryptographic libraries.
 
 ## 🔧 Current Projects
 
