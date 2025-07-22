@@ -1,22 +1,41 @@
 # 👋 Hi, I’m Jack Westbrook
 
-🎓 I'm a mathematics graduate passionate about post-quantum cryptography, lattice-based crypto, and secure systems.  
-🔬 I've worked on commutative algebra, algebraic number theory, and Macaulay2 tooling.  
-🦀 Currently learning Rust and modern C++ to build secure and efficient cryptographic libraries.
-
-## 🔧 Current Projects
-
-- 🔐 `pqc-journey`: My cryptography engineering roadmap (Rust, C++, PQC standards)
-- 🧮 `graded-algebra-operations`: A Macaulay2 package for computing Segre products and presentations of weighted Veronese subrings of graded algebras
-- 📗 `vakil-solutions`: My detailed writeups for *The Rising Sea* by Ravi Vakil
-
-## 📫 Reach Me
-
-- 📧 Email: [jackswestbrook@gmail.com](mailto:jackswestbrook@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/jack-westbrook](https://www.linkedin.com/in/jack-westbrook/)
-- 🌐 Personal site: _Coming soon_
+🎓 I'm a mathematics graduate with a deep interest in arithmetic geometry, algebraic number theory, and commutative algebra.  
+🧮 I've conducted research across several areas of pure mathematics — from Newton polygons and Hilbert–Kunz multiplicities to explicit constructions in hyperbolic geometry.  
+🛠 I also explore cryptographic systems and protocols through side projects in Rust and modern C++.
 
 ---
 
-> “What's round, purple, and doesn't drive to work?  
-> A: A non-abelian grape. _(It doesn’t commute.)_”
+## 🔬 Current Research Projects
+
+- 🟣 **Hilbert–Kunz Multiplicities**  
+  Studying variation in multiplicities of Segre products and connections to tight closure phenomena (UMich REU 2024).
+
+- 🟢 **Newton Polygons & Vector Fields**  
+  Characterizing extremal degrees in bilinear inequalities via combinatorial and geometric techniques (UW–Madison REU 2022).
+
+- 🔵 **Solutions to _The Rising Sea_**  
+  Detailed writeups and independent solutions to exercises in *The Rising Sea* by Ravi Vakil.
+
+---
+
+## 🔐 Side Projects in Cryptography
+
+- 🧱 **Rust & C++ Crypto Implementations**  
+  Toy implementations of AES, MACs, modular arithmetic, and secure message formats.
+
+- 🗂 **PQC Learning Roadmap**  
+  An organized exploration of post-quantum cryptography standards, including lattice-based systems and symmetric-key primitives.
+
+---
+
+## 📫 Reach Me
+
+- 📧 Email: jackwestbrook@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/jack-westbrook)  
+- 🌐 Personal Site: _Coming soon_
+
+---
+
+> “What’s round, purple, and doesn’t drive to work?”  
+> A: A non-abelian grape. _(It doesn’t commute.)_
