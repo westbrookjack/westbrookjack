@@ -33,7 +33,7 @@
 
 - 📧 Email: jackwestbrook@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/jack-westbrook)  
-- 🌐 Personal Site: _Coming soon_
+- 🌐 Personal Site: [https://westbrookjack.github.io](https://westbrookjack.github.io)
 
 ---
 
