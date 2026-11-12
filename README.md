@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Jack Westbrook
 
-🎓 I have completed an **MSc in Pure Mathematics at Imperial College London**, with a thesis on **ℓ-adic Galois representations and Serre’s Open Image Theorem**, and hold a **BA in Mathematics from UW–Madison**. I have a deep interest in arithmetic geometry, algebraic number theory, and commutative algebra.  
+🎓 I hold an **MSc in Pure Mathematics with Distinction from Imperial College London** (conferred 1 November 2026), with a thesis on **ℓ-adic Galois representations and Serre’s Open Image Theorem**, and hold a **BA in Mathematics from UW–Madison**. I have a deep interest in arithmetic geometry, algebraic number theory, and commutative algebra.  
 🧮 I've conducted research across several areas of pure mathematics — from Newton polygons and Hilbert–Kunz multiplicities to explicit constructions in hyperbolic geometry.  
 🛠 My programming projects span C++, Rust, Python, Lean, and Macaulay2.
 
